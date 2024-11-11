@@ -1,9 +1,6 @@
-# Let's create a downloadable file with the provided content.
-content = """
-System Analysis and Design Project: Network Implementation for a Small Company
 
 Project Overview
-The objective of this project is to design and simulate a secure, scalable, and efficient network infrastructure for a small company using Cisco Packet Tracer. The network will include essential components such as a database server, web server, file server, ERP server, and various Cisco networking devices to ensure optimal performance, security, and reliability.
+The objective of this project is to design and simulate a secure, scalable, and efficient network infrastructure for a company using Cisco Packet Tracer. The network will include essential components such as a database server, web server, file server, ERP server, and various Cisco networking devices to ensure optimal performance, security, and reliability.
 
 This project will follow the Agile methodology with six distinct phases, aligning with a real-world approach to network design and implementation, similar to how Uber manages its global network infrastructure.
 
